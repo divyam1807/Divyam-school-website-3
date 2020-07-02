@@ -1,0 +1,29 @@
+h1{
+    color: #e6d8d8;
+  
+}
+
+.head{
+    display: flex; 
+    justify-content:space-evenly ;
+    background-color: #359da1;
+}
+.con{
+    flex-direction: column;
+}
+.class{
+    display: flex; 
+    justify-content:around ;
+}
+.cord{
+    order: 5;
+}
+.jpg{
+    order: 5;
+}
+.pdf{
+    background-attachment: #922525 
+    display:flex; 
+    justify-content : space-evenly ;
+    
+}
